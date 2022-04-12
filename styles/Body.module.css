@@ -1,0 +1,84 @@
+.size{
+ font-size: 33px;
+
+}
+.po{
+        font-family: var(--bs-body-font-family);
+        font-weight: bold;
+        max-width: 580x;
+        margin-bottom: 80px;
+     border: 5px solid black;
+}
+.mai{
+        height: 6rem;
+        width: 6.5rem;
+        line-height: 7rem;
+        color: #196d87;
+        text-align: center !important;
+}
+
+.wrapper {
+        width: 980px;
+
+      }
+      
+      .zoomeffectcontainer { 
+          width: 525px;
+          height: 351px;
+          overflow: hidden;
+      }
+      
+      
+      .imagecard img {
+        -webkit-transition: 0.8s ease;
+       transition: 0.9s ease;
+       background-color: rgba(29, 128, 159, 0.9);
+       
+      }
+      
+      .zoomeffectcontainer:hover .imagecard img {
+        -webkit-transform: scale(0.10);
+-ms-transform: scale(0.9);
+transform: scale(0.9);
+transition: 0.10s ease;
+
+      }
+      .side-navbar {
+        width: 180px;
+        height: 100%;
+        position: fixed;
+        margin-left: -300px;
+        background-color: #100901;
+        transition: 0.5s;
+      }
+      
+      .nav-link:active,
+      .nav-link:focus,
+      .nav-link:hover {
+        background-color: #ffffff26;
+      }
+      
+      .my-container {
+        transition: 0.4s;
+      }
+      
+      .active-nav {
+        margin-left: 0;
+      }
+      
+      /* for main section */
+      .active-cont {
+        margin-left: 180px;
+      }
+      
+      #menu-btn {
+        background-color: #100901;
+        color: #fff;
+        margin-left: -62px;
+      }
+      
+      .my-container input {
+        border-radius: 2rem;
+        padding: 2px 20px;
+      }
+      
