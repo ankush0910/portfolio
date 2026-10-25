@@ -17,7 +17,7 @@ A responsive, dark-premium portfolio built with HTML, CSS, and vanilla JavaScrip
 ## Personal details
 - Software Engineer & Technical Consultant
 - 5+ years of experience
-- Email: dubeyankush292@gmail.com
+- Email: dubeyankush@gmail.com
 - India · Available worldwide
 
 ## Before publishing
